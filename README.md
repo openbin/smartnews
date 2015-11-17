@@ -14,3 +14,5 @@ Usage :
 - Additionally, next to each feed, there's a red upward/downward arrow. You can hit that to 'mark as read' all feeds above/below respectively. 
 - When you click on a new feed, it automatically gets the unread count unless you have manually altered the number of feeds to sort. 
 - **Update** : If sorting is not correct or articles are mixed up from previous feed, reload that particular feed.
+
+Cross browser testing is sponsored by [Browserstack](www.browserstack.com)
