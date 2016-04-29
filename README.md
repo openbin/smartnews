@@ -15,4 +15,5 @@ Usage :
 - When you click on a new feed, it automatically gets the unread count unless you have manually altered the number of feeds to sort. 
 - **Update** : If sorting is not correct or articles are mixed up from previous feed, reload that particular feed.
 
-Cross browser testing is sponsored by [Browserstack](https://www.browserstack.com)
+IP address location API sponsored by [ipapi](https://ipapi.co/)
+Cross browser testing sponsored by [Browserstack](https://www.browserstack.com)
