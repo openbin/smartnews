@@ -17,4 +17,6 @@ Usage :
 
 IP address location API sponsored by [ipapi](https://ipapi.co/)
 
-Cross browser testing sponsored by [Browserstack](https://www.browserstack.com)
+Cross browser testing sponsored by [Browserstack](https://www.browserstack.com) 
+
+![](http://i.imgur.com/MXVxFZ9.png?1)
